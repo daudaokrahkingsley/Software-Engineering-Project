@@ -23,6 +23,7 @@
    
  ## How To Run. 
   ### STEPS:
+  
    1. Extract the file incase you Clone from Github.
    2. Afterwards Copy the project Folder.
    3. On your XAMPP 
